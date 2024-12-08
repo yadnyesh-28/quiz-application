@@ -1,5 +1,5 @@
 Online QuizApp Application written in java with jdbc using swing components.
-I have provided how to open and run file. go through it.
+  I have provided how to open and run file. go through it.
 Features
 StartUp Screen.
 Login.
